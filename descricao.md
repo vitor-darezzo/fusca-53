@@ -23,6 +23,8 @@
  - Driver ponte H (L298N)
  - Motor DC
  - Estrutura impressa em 3D
+ - Impresso em Plastico PLA (Ácido Polilático).
+   
  
  A lógica permite que o carrinho:
  - Siga linhas brancas sobre fundo preto
@@ -33,6 +35,6 @@
  
  ## Impressão 3D
  
- A estrutura foi impressa a partir de um arquivo STL previamente modelado e fatiado, enviado para uma gráfica com impressora 3D. A montagem dos componentes foi feita sobre esse chassi.
+ A estrutura foi impressa a partir de um arquivo STL previamente modelado e fatiado, enviado para uma gráfica com impressora 3D. A montagem dos componentes foi feita sobre esse chassi de PLA (Ácido Polilático).
  
  ---
